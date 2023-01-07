@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "build": "react-scripts build",
-    "test": "react-scripts test",
     "eject": "react-scripts eject"
     "client":"npm start --prefix frontend",
     "server":"nodemon server.js",
